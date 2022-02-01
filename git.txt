@@ -1,0 +1,20 @@
+# to initialize a repository:
+git init 
+
+# to add all files:
+git add . 
+
+# to save all changes:
+git commit -m "insert a note"
+
+#to push unto github
+git push 
+
+#to get branch name
+git branch 
+
+#to create a branch and switch to the branch:
+git checkout -b branchName
+
+#to switch to already existing branch:
+git checkout branchName
